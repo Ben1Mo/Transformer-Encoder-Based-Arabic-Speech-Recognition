@@ -1,7 +1,7 @@
 # Transformer-Encoder-Based-Arabic-Speech-Recognition
-This repository holds the implementation for the paper: [Speech recognition based on the transformer's multi‐head attention in Arabic](https://doi.org/10.1007/s10772-024-10092-x).
-A pre-print of the published paper is [available](./paper/speech_recognition_based_on_the_transformer_s_multi_head_attention.pdf).
-The main contributors in the project are Omayma Mahmoudi and Mohamed Benchat and under the supervision of Mouncef Filali‐Bouami.
+* This repository holds the implementation for the paper: [Speech recognition based on the transformer's multi‐head attention in Arabic](https://doi.org/10.1007/s10772-024-10092-x).
+* A pre-print of the published paper is [available](./paper/speech_recognition_based_on_the_transformer_s_multi_head_attention.pdf).
+* The main contributors in the project are Omayma Mahmoudi and Mohamed Benchat and under the supervision of Mouncef Filali‐Bouami.
 
 ## Dataset
 
