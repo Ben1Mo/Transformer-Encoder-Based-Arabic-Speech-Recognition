@@ -78,7 +78,7 @@ You can follow these steps to start testing the `AudioSpectogram.ipynb` notebook
   1.1. The used python version:
     ```
     $ python --version
-    Python 3.7.4
+    Python 3.6.9
     ```
 2. Install requirements, running the following:
 ```
