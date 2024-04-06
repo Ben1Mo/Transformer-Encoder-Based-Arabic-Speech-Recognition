@@ -15,4 +15,4 @@ torch==1.10.1
 torch-audiomentations==0.11.0
 torchaudio==0.10.1
 tqdm==4.62.3
-typing-extensions==3.10.0.2 # this solve a certain issue related to the compability of Ray and Torch models
+typing-extensions==3.10.0.2 # this solve a certain issue related to the compability of Ray and Torch-backed models
